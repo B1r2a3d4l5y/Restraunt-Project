@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.lunch-header {
+    text-align: center;
+    text-decoration: underline;
+}
+.serve {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}

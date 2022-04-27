@@ -1,0 +1,74 @@
+* {
+padding: 0;
+margin: 0;
+}
+.breakfast {
+    background-color: grey;
+    border-radius: 5px;
+    padding: 3px;
+}
+.b-menu {
+    color: beige;
+}
+
+.omlet {
+ position:relative;
+    float: right;
+    height : 30px;
+    width: 30px;
+    margin: 10px;
+
+
+}
+.omlet-desc {
+    font-size: 9px;
+}
+.prices {
+    font-size: 20px;
+    text-align: left;
+    color:aqua
+    
+}
+.menu-header {
+    margin: 3px;
+    color: red;
+}
+.break-plates {
+    margin: 15px;
+}
+.break-desc {
+    font-size: 9px;
+}
+.breakfast-plate {
+    position: relative;
+    display: flex;
+    float: right;
+    text-align: center;
+    height: 30px;
+    width: 30px
+    
+}
+.prices {
+    font-size: 9px;
+}
+.french {
+    margin: 10px;
+}
+.french-desc {
+    font-size: 9px;
+}
+.toast {
+position: relative;
+float: right;
+height: 30px;
+width: 30px;
+}
+.pan-desc {
+    font-size: 9px;
+}
+.pancake {
+    position: relative;
+    float : right ;
+    height: 30px;
+    width: 30px;
+}
