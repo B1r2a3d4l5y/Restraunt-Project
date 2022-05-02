@@ -1,0 +1,169 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+}
+.lunch {
+    background-color: lightblue;
+    height: 100vh;
+    width: 100%;
+}
+.lunch-header {
+    text-align: center;
+    text-decoration: underline;
+}
+.serve {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+}
+.burger {
+    text-align:  center;
+    text-decoration: underline;
+    margin: 10px;
+}
+.beef {
+    text-align: center;
+    margin: 3px;
+}
+.prices {
+    font-size: 10px;
+    text-align: center;
+    color: #24f
+}
+.chicken {
+    text-align: center;
+}
+.pork {
+    text-align: center;
+    margin: 4px;
+}
+.salad {
+    text-align: center;
+    text-decoration: underline;
+}
+.c-salad {
+
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.b-salad {
+    text-align: center;
+    padding: 7px;
+    margin: 10px;
+}
+ .veg {
+     text-align: center;
+     margin: 5px;
+     padding: 5px;
+ }
+ .steak {
+     text-align: center;
+     text-decoration: underline;
+ }
+ .t-bone {
+     text-align: center;
+ }
+ .rump {
+     text-align: center;
+ }
+ .beef_burger {
+     position: relative;
+     float: right;
+     height: 40px;
+     width: 50px;
+ }
+ .chicken_burger {
+     position: relative;
+     float: right;
+     height: 30px;
+     width: 40px;
+ }
+ .description {
+     font-size: 9px;
+     text-align:  center;
+ }
+ .pork_burger {
+     position: relative;
+     float: right;
+     height: 40px;
+    width: 40px;
+ }
+ .cold {
+     text-align: center;
+     text-decoration: underline;
+ }
+ .ice {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+     
+
+ }
+ 
+
+ 
+ .grape {
+ text-align: center;
+ padding: 3px;
+ }
+ 
+ 
+ .coke {
+  text-align: center;
+ }
+ .fanta {
+ text-align: center;
+ }
+ .logo {
+     position: relative;
+     display: block;
+     float: right;
+     text-align: center;
+     height: 20px;
+     width: 30px;
+    
+ }
+ .w-header {
+     display: block;
+     position: relative;
+     text-align: center;
+     text-decoration: underline;
+
+ }
+ .tea {
+     text-align: center;
+     
+     
+     
+ }
+ .coffee {
+     text-align: center;
+ }
+ .hot {
+     text-align: center;
+ }
+ .cs-img {
+     position: relative;
+     float: right;
+     height: 30px;
+     height: 30px;
+
+ }
+ .b-salad-img {
+     position: relative;
+     float: right;
+     height: 30px;
+     width: 30px;
+ }
+ .veg-salad {
+     position: relative;
+     float: right;
+     height: 30px;
+     width: 30px;
+ }
+ 
