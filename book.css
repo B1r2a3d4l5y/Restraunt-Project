@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.book {
+    text-align: center;
+    text-decoration: underline;
+}
+.contact {
+    text-align: center;
+}
